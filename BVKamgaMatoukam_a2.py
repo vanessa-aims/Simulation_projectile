@@ -1,4 +1,5 @@
-
+#Author Bralyne Vanessa Kamga Matoukam
+#we are trying to simulate the projectile position and velocity at t>0
 import numpy as np
 import pandas as pd#I would like to return my results as a data frame
 def projectile_motion(initial_velocity, angle, time_step, total_time):#define 
